@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "umami",
       host: "https://cloud.umami.is", // Replace with your host
-      websiteId: "b0089a60-4566-4ada-840c-d403797b994e", // Replace with your UUID
+      websiteId: "8fa73cb0-59ab-4e6d-be90-6317483ebe77", // Replace with your UUID
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
