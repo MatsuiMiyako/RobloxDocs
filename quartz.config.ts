@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       websiteId: "8fa73cb0-59ab-4e6d-be90-6317483ebe77", // Replace with your UUID
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "matsuimiyako.github.io/RobloxDocs",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
