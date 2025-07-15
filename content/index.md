@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to dwfxf's easy guide to Roblox Studio!
 ---
 
 This is a blank Quartz installation.
