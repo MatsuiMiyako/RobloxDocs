@@ -97,12 +97,6 @@ export default (() => {
             return resource
           }
         })}
-
-        <script
-          defer
-          src="https://cloud.umami.is/script.js"
-          data-website-id="8fa73cb0-59ab-4e6d-be90-6317483ebe77"
-        ></script>
       </head>
     )
   }

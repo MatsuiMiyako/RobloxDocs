@@ -12,11 +12,11 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-
-    //  provider: "umami",
-    //  host: "https://cloud.umami.is", // Replace with your host
-    //  websiteId: "8fa73cb0-59ab-4e6d-be90-6317483ebe77", // Replace with your UUID
+    analytics: {
+      provider: "umami",
+      host: "https://cloud.umami.is", // Replace with your host
+      websiteId: "8fa73cb0-59ab-4e6d-be90-6317483ebe77", // Replace with your UUID
+    },
     locale: "en-US",
     baseUrl: "matsuimiyako.github.io/RobloxDocs",
     ignorePatterns: ["private", "templates", ".obsidian"],
