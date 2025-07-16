@@ -51,5 +51,4 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  UmamiAnalytics,
 }
