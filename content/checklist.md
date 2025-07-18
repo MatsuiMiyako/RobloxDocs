@@ -4,10 +4,10 @@ date: 2025-07-14
 ---
 # Welcome!
 
-This is my public knowledge base for **Roblox Luau scripting**, created with Obsidian and published via Quartz. Test Test Test.
+This is my public knowledge base for **Roblox Luau scripting**, created with Obsidian and published via Quartz. This is what my outline on what I should be covering.
 
 
-## 🧱 Level 0 – Core Foundations (Absolute Beginner)
+## Level 0 – Core Foundations (Absolute Beginner)
 
 > Focus: Just getting the engine to work, learning the tools, understanding syntax.
 
@@ -50,7 +50,7 @@ This is my public knowledge base for **Roblox Luau scripting**, created with Obs
 
 ---
 
-## 🚀 Level 1 – Scripting Basics (Beginner)
+## Level 1 – Scripting Basics (Beginner)
 
 > Focus: Learn to make your game react to the player. Start programming with intention.
 
@@ -85,7 +85,7 @@ This is my public knowledge base for **Roblox Luau scripting**, created with Obs
 
 ---
 
-## ⚙️ Level 2 – Game Mechanics (Intermediate)
+## Level 2 – Game Mechanics (Intermediate)
 
 > Focus: Building reusable systems. Understanding architecture. Handling multiplayer and server/client separation.
 
@@ -124,7 +124,7 @@ This is my public knowledge base for **Roblox Luau scripting**, created with Obs
 
 ---
 
-## 🔧 Level 3 – Systems Design (Advanced)
+## Level 3 – Systems Design (Advanced)
 
 > Focus: Systems that scale. Code that’s modular, efficient, and maintainable.
 
@@ -161,7 +161,7 @@ This is my public knowledge base for **Roblox Luau scripting**, created with Obs
 
 ---
 
-## 🧠 Level 4 – Expert / Performance / Polishing
+## Level 4 – Expert / Performance / Polishing
 
 > Focus: Engineering for real games. Optimization, security, and UX polish.
 
@@ -196,7 +196,7 @@ This is my public knowledge base for **Roblox Luau scripting**, created with Obs
 
 ---
 
-## ⚔️ Level 5 – Production-Ready Dev (Elite)
+## Level 5 – Production-Ready Dev (Elite)
 
 > Focus: Systems thinking. Shippable game architecture. Maintainable codebases.
 
